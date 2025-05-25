@@ -5,7 +5,7 @@ import { defineConfig } from "vite";
   export default defineConfig({
       plugins: [react()],
       server: {
-        allowedHosts: ['h9sdc9-5173.csb.app']  
+        allowedHosts: ['h9sdc9-5173.csb.app', '7crgdw-5173.csb.app']  
       }
   });
   
